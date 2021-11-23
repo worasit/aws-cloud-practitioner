@@ -1,1 +1,1 @@
-# aws-cloud-practitioner
+# AWS Partner: Cloud Practitioner Essentials
