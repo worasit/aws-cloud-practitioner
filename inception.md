@@ -28,4 +28,23 @@ A set of highly collaborative workshops for
 - Value Proposition
     - Customer needs?
     - Market/Competitor?
-- Validated list of hypothesis and assumption with customers? 
+- Validated list of hypothesis and assumption with customers?
+
+### Inception Output
+
+- [Agreement on high level scope](https://sites.google.com/thoughtworks.com/inception-toolkit/activities/planning/stakeholder-agreement?authuser=0)
+- [Definition of the software MVP](https://sites.google.com/thoughtworks.com/inception-toolkit/activities/planning/mvp-canvas?authuser=0)
+- Technical Architecture
+- [Release plan/Roadmap](https://sites.google.com/thoughtworks.com/inception-toolkit/activities/planning/release-planning?authuser=0)
+- [Communication Plan](https://sites.google.com/thoughtworks.com/inception-toolkit/activities/planning/communication-plan?authuser=0)
+- Roles and Responsibilities
+- Testing Strategy
+- RAIDs
+
+### Inception Agenda
+
+https://drive.google.com/file/d/1AhnMfmdFi0uJO3PTlHA6gYEXp8iCL6pj/view
+
+More details: https://sites.google.com/thoughtworks.com/inception-toolkit/faqs?authuser=0
+
+Examples: https://sites.google.com/thoughtworks.com/inception-toolkit/showcase?authuser=0
