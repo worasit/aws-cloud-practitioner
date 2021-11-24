@@ -9,5 +9,5 @@ What is Cloud Computing
 - Speed and Agility
     - Fail fast and fail cheap
 - Go Global in Minutes
-  - https://aws.amazon.com/about-aws/global-infrastructure/
-  - 50k-80k data server within the DC
+    - https://aws.amazon.com/about-aws/global-infrastructure/
+    - 50k-80k data server within the DC
